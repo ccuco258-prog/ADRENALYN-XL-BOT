@@ -10,7 +10,7 @@ IMPORTANTE!!!
 
 Chrome debe estar actualizado en la v146
 
-DEBES ISNTALAR ESTA LIBRERIAS EN TU PC.
+DEBES INSTALAR ESTA LIBRERIAS EN TU PC.
 
 Ves al CMD o PowerShell y pega este comando:
 
